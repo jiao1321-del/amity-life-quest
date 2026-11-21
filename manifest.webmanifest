@@ -1,0 +1,1 @@
+{"name": "AMITY LIFE QUEST", "short_name": "Amity Quest", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#100f19", "theme_color": "#15111f", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
